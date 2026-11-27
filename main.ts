@@ -1,3 +1,4 @@
+// A playful verb for delaying work by building an elaborate system first.
 import { mkdirSync, writeFileSync } from 'node:fs';
 
 /** Validates the one-line word entry and writes it to /output/entry.txt. */
